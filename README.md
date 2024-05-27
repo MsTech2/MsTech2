@@ -1,16 +1,17 @@
-## Hi there 👋
+## Salut, comment ça va?! Bienvenue👋
 
-<!--
-**MsTech2/MsTech2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Prazer, é a Melissa aqui.. 😸
+- 🔭 Apesar de não ter experiência na área tecnológica, estou aprendendo e disposta a melhorar sempre ✌️ 
+- 🌱 Estudando Ciência de Dados e Segurança da Informação 💕
+##
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <div> 
+  <a href="https://www.linkedin.com/in/ms3tec/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
