@@ -2,7 +2,7 @@
 
 - 😄 Prazer, é a Melissa aqui.. 😸
 - 🔭 Apesar de não ter experiência na área tecnológica, estou aprendendo e disposta a melhorar sempre ✌️ 
-- 🌱 Estudando Ciência de Dados e Segurança da Informação 💕
+- 🌱 Estudando Ciência de Dados com enfase em IA e Segurança da Informação 💕
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
